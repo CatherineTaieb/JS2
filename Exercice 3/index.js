@@ -1,0 +1,1 @@
+const Celsius = prompt ("A combien es tu chaud ? ")
